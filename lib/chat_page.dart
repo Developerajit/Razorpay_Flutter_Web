@@ -5,17 +5,17 @@ import 'chatcolors.dart' as myColors;
 
 
 class chatbot extends StatefulWidget {
- final  String image;
- final int coins;
+ final  String? image;
+ final int? coins;
  
-  const chatbot({Key key,this.coins,this.image}) : super(key: key);
+  const chatbot({Key? key,this.coins,this.image}) : super(key: key);
   @override
   _chatbotState createState() => _chatbotState();
 }
 
 class _chatbotState extends State<chatbot> {
   final messageInsert = TextEditingController();
-  List<Map> messsages = List();
+  List<Map> messsages = [];
 
   @override
   Widget build(BuildContext context) {
@@ -162,7 +162,7 @@ class _chatbotState extends State<chatbot> {
     );
   }
 
-  Widget chat(String message, int data) {
+  Widget chat(String message, int? data) {
     return Padding(
       padding: EdgeInsets.all(10.0),
       child: Bubble(

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "978896871572",
+    "firebase_url": "https://chat-faab3.firebaseio.com",
+    "project_id": "chat-faab3",
+    "storage_bucket": "chat-faab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978896871572:android:8dafbc79ba903b186f9481",
+        "android_client_info": {
+          "package_name": "com.developerajit.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978896871572-gr3033dh1p93qu111q47rnac98sfl3gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developerajit.chat_app",
+            "certificate_hash": "bd34d5de07812d642f35467d623028ff5a7a781a"
+          }
+        },
+        {
+          "client_id": "978896871572-fvch1fqr52lirk0kb3i3euomq5153vj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANztdn8VbI_NDVsOypzMlsJnRX5MG6lUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978896871572-fvch1fqr52lirk0kb3i3euomq5153vj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978896871572:android:a7c08fbc0d78de626f9481",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978896871572-fvch1fqr52lirk0kb3i3euomq5153vj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANztdn8VbI_NDVsOypzMlsJnRX5MG6lUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978896871572-fvch1fqr52lirk0kb3i3euomq5153vj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
